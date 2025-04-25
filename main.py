@@ -1,4 +1,4 @@
-from Trade import Trade
+from src.Trade import Trade
 
 
 if __name__ == '__main__':
